@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1538607146 source:c:\users\1034244\desktop\aed\convertbase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+
